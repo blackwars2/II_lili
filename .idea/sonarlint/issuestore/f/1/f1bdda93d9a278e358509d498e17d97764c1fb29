@@ -1,0 +1,7 @@
+
+npython:S1192"ODefine a constant instead of duplicating this literal 'Ð¾Ñ‚ÐºÑ€Ñ‹Ñ‚ÑŒ' 8 times.(— „ù8¤ÚÁˆÖ1
+qpython:S1192"MDefine a constant instead of duplicating this literal 'Ð¾Ñ‚ÐºÑ€Ð¾Ð¹' 9 times.(’çº¸úÿÿÿÿ8¤ÚÁˆÖ1
+fpython:S2208"GImport only needed names or import the module and then use its members.(”¢§Ë8¤ÚÁˆÖ1
+xpython:S37760"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÐÜ·›ÿÿÿÿÿ8¥ÚÁˆÖ1
+spython:S3776U"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(±ÇôÝ8¥ÚÁˆÖ1
+Jpython:S5806W"+Rename this variable; it shadows a builtin.(‘Îœ—8¥ÚÁˆÖ1
